@@ -50,4 +50,4 @@ If you're checking out the source code, almost all the action happens inside `sr
 
 ***
 
-Thanks for this assignment its was a good and a bit refresh to use vite again after a long time since i was using nextjs and all readme file is bit AI generated but i tried to make it human readable. Happy coding!
+Thanks for this assignment its was a good and a bit refresh to use vite again after a long time since i was using nextjs and all readme file is bit AI generated but i tried to make it human readable. 
