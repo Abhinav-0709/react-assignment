@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    @apply antialiased m-0 text-gray-800 bg-gray-50;
+  }
+}
+
+.p-checkbox .p-checkbox-box {
+  border: 2px solid #94a3b8 !important;
+}
+
+.p-checkbox .p-checkbox-box.p-highlight {
+  border-color: #3b82f6 !important;
+  background-color: #3b82f6 !important;
+}
+
+.p-paginator .p-paginator-pages .p-paginator-page.p-highlight,
+.p-paginator .p-highlight {
+  background-color: #e0f2fe !important;
+  border-color: #bae6fd !important;
+  color: #0369a1 !important;
+  font-weight: 600 !important;
+}
